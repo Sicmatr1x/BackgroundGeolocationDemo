@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+action#io.framework7.BackgroundGeolocationDemo.event.BACKGROUND_FETCH
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:15:17-82
+	android:name
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:15:25-79
+manifest
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:2:1-30:12
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:2:1-56:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\1446dcb4c76d553558dc7b8ae4886299\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f0f7efb8c9a9dbe4823a71b455427417\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b442cdc9ccc3289cd2a3d232462d65d\AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] D:\git\BackgroundGeolocationDemo\cordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\e7cd5796862ef44a3874178d484a8b59\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\e4a6e7b705c15c5a783a595f0aa7d508\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\2c3fe48bc28ea37ea0c0f2184c894242\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bef97aec9ef32f40ff80f1f04ba78aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0a89f1617c4e75cff0defb88b54916b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2253ebdc2b9ab642182ede496f42bf35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\138308033ac932d8ebf85c16bcd8f07d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\adf5c916034d591d66d067996a3f3047\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\41667576d20dde7dadfdebe36184c517\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\22a962086510960c00a3bd6525d81d17\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\35f55031d0fb1cd15490c9383108eb84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1543d5c7247d415a1a2eef6ab66e1bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be194862ab2ebb8428ad12a533a4c161\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:102-151
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:152-210
+	android:versionCode
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:15:5-67
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:14:5-28:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:14:5-28:19
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:25:5-54:19
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:25:5-54:19
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f0f7efb8c9a9dbe4823a71b455427417\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f0f7efb8c9a9dbe4823a71b455427417\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\e4a6e7b705c15c5a783a595f0aa7d508\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\e4a6e7b705c15c5a783a595f0aa7d508\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\2c3fe48bc28ea37ea0c0f2184c894242\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\2c3fe48bc28ea37ea0c0f2184c894242\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#io.framework7.BackgroundGeolocationDemo.MainActivity
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+service#com.transistorsoft.cordova.backgroundfetch.HeadlessJobService
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:12:9-178
+	android:exported
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:12:18-41
+	android:permission
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:12:119-175
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:12:42-118
+receiver#com.transistorsoft.cordova.backgroundfetch.HeadlessBroadcastReceiver
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:13:9-17:20
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:13:19-102
+intent-filter#io.framework7.BackgroundGeolocationDemo.event.BACKGROUND_FETCH
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:14:13-16:29
+meta-data#com.transistorsoft.locationmanager.license
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:18:9-113
+	android:value
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:18:78-110
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:18:20-77
+uses-sdk
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:20:5-74
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:20:5-74
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\1446dcb4c76d553558dc7b8ae4886299\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\logback-android-1.1.1-9.aar\1446dcb4c76d553558dc7b8ae4886299\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f0f7efb8c9a9dbe4823a71b455427417\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f0f7efb8c9a9dbe4823a71b455427417\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b442cdc9ccc3289cd2a3d232462d65d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b442cdc9ccc3289cd2a3d232462d65d\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] D:\git\BackgroundGeolocationDemo\cordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] D:\git\BackgroundGeolocationDemo\cordova\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\e7cd5796862ef44a3874178d484a8b59\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\apktool-lib-1.4.4-5.aar\e7cd5796862ef44a3874178d484a8b59\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\e4a6e7b705c15c5a783a595f0aa7d508\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\e4a6e7b705c15c5a783a595f0aa7d508\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\2c3fe48bc28ea37ea0c0f2184c894242\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\2c3fe48bc28ea37ea0c0f2184c894242\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bef97aec9ef32f40ff80f1f04ba78aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bef97aec9ef32f40ff80f1f04ba78aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0a89f1617c4e75cff0defb88b54916b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0a89f1617c4e75cff0defb88b54916b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2253ebdc2b9ab642182ede496f42bf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2253ebdc2b9ab642182ede496f42bf35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\138308033ac932d8ebf85c16bcd8f07d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\138308033ac932d8ebf85c16bcd8f07d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\adf5c916034d591d66d067996a3f3047\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\adf5c916034d591d66d067996a3f3047\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\41667576d20dde7dadfdebe36184c517\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\41667576d20dde7dadfdebe36184c517\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\22a962086510960c00a3bd6525d81d17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\22a962086510960c00a3bd6525d81d17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\35f55031d0fb1cd15490c9383108eb84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\35f55031d0fb1cd15490c9383108eb84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1543d5c7247d415a1a2eef6ab66e1bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1543d5c7247d415a1a2eef6ab66e1bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be194862ab2ebb8428ad12a533a4c161\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\be194862ab2ebb8428ad12a533a4c161\AndroidManifest.xml:20:5-44
+INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:20:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:20:42-71
+	android:minSdkVersion
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:20:15-41
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:21:5-81
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:12:5-81
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:22:5-79
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:13:5-79
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:22:22-76
+uses-feature#android.hardware.location.gps
+ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:23:5-66
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:21:5-23:36
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:21:5-23:36
+	android:name
+		ADDED from D:\git\BackgroundGeolocationDemo\cordova\platforms\android\app\src\main\AndroidManifest.xml:23:19-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:11:5-81
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:18:5-81
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:12:5-68
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:19:5-68
+MERGED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:12:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:15:9-92
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:15:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:19:13-36
+	android:permission
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:18:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:22:19-83
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:24:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:25:17-84
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.2.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tsbackgroundfetch-0.2.0.aar\9521054b9d4190d512f61c6e29cf199e\AndroidManifest.xml:25:25-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:14:22-86
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:16:22-74
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:17:5-94
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:17:22-91
+service#com.transistorsoft.locationmanager.BackgroundGeolocationService
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:26:9-99
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:26:18-96
+service#com.transistorsoft.locationmanager.LocationService
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:27:9-86
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:27:18-83
+service#com.transistorsoft.locationmanager.ActivityRecognitionService
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:28:9-97
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:28:18-94
+service#com.transistorsoft.locationmanager.geofence.GeofenceService
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:29:9-95
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:29:18-92
+receiver#com.transistorsoft.locationmanager.scheduler.ScheduleAlarmReceiver
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:31:9-103
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:31:19-100
+service#com.transistorsoft.locationmanager.scheduler.ScheduleJobService
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:33:9-36:72
+	android:exported
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:34:13-91
+receiver#com.transistorsoft.locationmanager.BootReceiver
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:38:19-81
+provider#com.transistorsoft.locationmanager.util.LogFileProvider
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:45:9-53:20
+	android:grantUriPermissions
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:49:13-47
+	android:authorities
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:47:13-82
+	android:exported
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:46:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:50:13-52:80
+	android:resource
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from [com.transistorsoft:tslocationmanager:2.14.4] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\tslocationmanager-2.14.4.aar\ae3b1ee6c4b245ddb98f1b8065d13caf\AndroidManifest.xml:51:17-67
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.6] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\android-permissions-0.1.6.aar\fba90a2f8e7fd11c33f30df478cd5302\AndroidManifest.xml:13:13-83
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3c3974470b5e51320420a6d0271f3e17\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ed340c6b9d9a8b3494fdf94f69107c83\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\828a9d40f4bd48ccca2612aa0ea6de53\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\GUOJO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9be78f00179cc5a460ba603b3882a50e\AndroidManifest.xml:27:13-51

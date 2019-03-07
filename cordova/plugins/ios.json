@@ -1,0 +1,45 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-background-geolocation-lt": {
+      "BACKGROUND_MODE_LOCATION": "<string>location</string>",
+      "LOCATION_ALWAYS_AND_WHEN_IN_USE_USAGE_DESCRIPTION": "Always use is required for constant background location-tracking",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION": "Background location-tracking is required",
+      "MOTION_USAGE_DESCRIPTION": "Using the accelerometer increases battery-efficiency by intelligently toggling location-tracking only when the device is detected to be moving",
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-background-fetch": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-cocoalumberjack": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    }
+  }
+}

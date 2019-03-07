@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-background-geolocation-lt": {
+      "LICENSE": "YOUR_LICENSE_KEY",
+      "GOOGLE_API_VERSION": "16.0.0",
+      "APPCOMPAT_VERSION": "27.1.1",
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-background-fetch": {
+      "PACKAGE_NAME": "io.framework7.BackgroundGeolocationDemo"
+    }
+  }
+}
